@@ -1,0 +1,11 @@
+title: "MadaLog"
+description: "О чем угодно пишу."
+url: "https://danbuyt.github.io"
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Kaliningrad
+
+author:
+  name: "Dan"
+  email: "dana33topo@gmail.com"
