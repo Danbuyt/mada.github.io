@@ -10,5 +10,6 @@ timezone: Europe/Kaliningrad
 author:
   name: "Dan"
   email: "dana33topo@gmail.com"
+theme: minima
 sass:
-sass_dir: assets/css/style.scss
+  sass_dir: assets/css
