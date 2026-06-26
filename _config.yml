@@ -9,3 +9,5 @@ timezone: Europe/Kaliningrad
 author:
   name: "Dan"
   email: "dana33topo@gmail.com"
+sass:
+sass_dir: assets/css
