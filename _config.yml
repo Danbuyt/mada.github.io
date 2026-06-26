@@ -11,4 +11,4 @@ author:
   name: "Dan"
   email: "dana33topo@gmail.com"
 sass:
-sass_dir: assets/css
+sass_dir: assets/css/style.scss
