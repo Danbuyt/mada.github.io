@@ -1,4 +1,3 @@
-theme: minima
 title: "MadaLog"
 description: "О чем угодно пишу."
 url: "https://danbuyt.github.io"
@@ -10,7 +9,6 @@ timezone: Europe/Kaliningrad
 author:
   name: "Dan"
   email: "dana33topo@gmail.com"
-theme: minima
 sass:
   sass_dir: assets/css
 webrick:
