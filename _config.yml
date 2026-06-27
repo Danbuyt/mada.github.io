@@ -13,3 +13,6 @@ author:
 theme: minima
 sass:
   sass_dir: assets/css
+webrick:
+headers:
+Content-Type: text/css
