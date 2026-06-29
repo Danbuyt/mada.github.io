@@ -24,6 +24,10 @@ permalink: /blog/
         {{ content }}
     </div>
 
+    <div class="item">
+    {{ content }}
+    </div>
+
     <footer class="post-footer">
         <p><a href="/blog/">← Назад к списку</a></p>
     </footer>
